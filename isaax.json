@@ -1,13 +1,13 @@
 {
-  "name": "isaax-ci-script",
+  "name": "envirophat-webinfo",
   "version": "0.0.0",
-  "description": "isaax-agent test script",
+  "description": "enviro pHATWeb display",
   "main": "main.py",
-  "author": "nc30",
+  "author": "isaaxug",
   "license": "GPL",
   "language":"python",
   "scripts": {
-     "start": "python3 -u IoT.py"
+     "start": "python3 main.py"
     },
    "dependency": null
 }
